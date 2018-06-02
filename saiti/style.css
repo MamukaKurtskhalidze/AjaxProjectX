@@ -1,0 +1,25 @@
+footer{
+    background-color: darkslategrey;
+    padding: 30px;
+    position: relative;
+    
+}
+
+footer.ul{
+    display: inline;
+}
+
+.left-container{
+    width: 340px;
+    min-height: 400px;
+    background-color: lightgray;
+    margin: 70px;
+    padding: 50px;
+    border-radius: 5%;
+    
+}
+
+select{
+    margin-top: 20px;
+}
+
